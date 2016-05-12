@@ -1,6 +1,6 @@
 Package.describe({
   name: 'radical3do:meteor-react-google-maps',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'React.js Google Maps component for Meteor',
   // URL to the Git repository containing the source code for this package.
